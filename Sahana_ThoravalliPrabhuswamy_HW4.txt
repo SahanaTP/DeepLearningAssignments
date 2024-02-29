@@ -1,0 +1,3 @@
+Link to the google colab file with solutions, since it is big, only link is shared:
+
+https://colab.research.google.com/drive/1CZvnVaxu2wgFVmKmP6oEwjJzBLwerPcC?usp=sharing
