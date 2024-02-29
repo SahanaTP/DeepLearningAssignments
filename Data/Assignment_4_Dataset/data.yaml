@@ -1,0 +1,6 @@
+train: /content/datasets/data/train/images
+val: /content/datasets/data/valid/images
+test: /content/datasets/data/test/images
+
+nc: 3
+names: ['Bat', 'Butterfly', 'Squid']
